@@ -3,7 +3,7 @@ inherit cross
 
 NAME="mingw64-i686-libgnurx"
 VERSION=2.5
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="C regex functions for Win32 toolchain"
 DESCRIPTION="This is the regex functionality from glibc 2.5 extracted into a
